@@ -25,3 +25,4 @@ The assembly uses a **Cylindrical Joint** between the nut and the bolt shank.
 
 
 
+<img width="1403" height="782" alt="design" src="https://github.com/user-attachments/assets/389e9238-c7ea-4ba9-a372-d4eb3c1a3a46" />
